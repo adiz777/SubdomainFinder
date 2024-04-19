@@ -14,8 +14,7 @@ Welcome3 = r""" \__ \ || | '_ \/ _` / _ \ '  \/ _` | | ' \  | _|| | ' \/ _` / -_
 Welcome4 = r""" |___/\_,_|_.__/\__,_\___/_|_|_\__,_|_|_||_| |_| |_|_||_\__,_\___|_|  """
 
 Information = r"""
- Author: 	Threezh1
- Blog:		http://www.threezh1.com/
+ Author: 	Major_Adi
  Version:	1.0"""
 
 Help = r"""
